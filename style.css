@@ -1,0 +1,32 @@
+body{
+    text-align:center;
+}
+#app{
+    width:100%;
+    background-color:aqua;
+}
+.line{
+    height:6px;
+    width:70px;
+    background-color:black;
+    margin:8px auto;
+
+}
+#game
+{
+    width:100%;
+    background-color:aqua;
+}
+img{
+    transition:transform .2s;
+}
+img:hover{
+    transform:scale(.9);
+}
+#chatbot{
+    width:100%;
+    background-color:beige;
+}
+h1{
+    font-family: 'New Tegomin', serif;
+}
